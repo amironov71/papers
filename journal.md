@@ -1,6 +1,6 @@
 # Authours
-Aleksandr Mironov
-John Smith
+Aleksandr Mironov -UoM
+John Smith - ass of the world
 
 # Title
 Something to write and think about or may be just talk
