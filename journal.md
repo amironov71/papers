@@ -14,3 +14,6 @@ Of course another 2015 was better
 
 # Thought experiments
 Cheap and cheerful - no consumables
+
+#Methods
+good methods used
