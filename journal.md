@@ -6,7 +6,7 @@ John Smith
 Something to write and think about or may be just talk
 
 
-#Intorduction
+# Intorduction
 Bla-bla
 
 smth 2017 already shown bla-bla
@@ -15,11 +15,15 @@ Of course another 2015 was better
 # Thought experiments
 Cheap and cheerful - no consumables
 
-#Methods
+# Methods
 good methods used
 
-#Results
+# Results
 Bloody awsome results
 
-#Conclusions
+# Conclusions
 Everything is tip-top
+
+# Figures
+Fig1
+Fig2
