@@ -2,7 +2,7 @@
 Aleksandr Mironov
 
 # Title
-Something to write about
+Something to write about exercise
 
 #Intorduction
 Bla-bla
