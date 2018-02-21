@@ -1,8 +1,9 @@
 # Authours
 Aleksandr Mironov
+John Smith
 
 # Title
-Something to write about
+Something to write and think about
 
 #Intorduction
 Bla-bla
